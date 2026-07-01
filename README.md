@@ -65,12 +65,10 @@ I am a passionate developer focused on the intersection of Artificial Intelligen
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sreehriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sreehari's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreehriz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-
----
 
 ## 📫 Connect With Me
 
