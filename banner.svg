@@ -1,0 +1,50 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Sreehari — profile banner</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6C1F9E"/>
+      <stop offset="100%" stop-color="#3A6FE0"/>
+    </linearGradient>
+    <linearGradient id="waveFill1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="waveFill2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="220" fill="url(#bg)"/>
+
+  <g>
+    <path fill="url(#waveFill2)">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite"
+        values="
+          M0,150 C150,190 350,110 600,150 C850,190 1050,110 1200,150 L1200,220 L0,220 Z;
+          M0,150 C150,110 350,190 600,150 C850,110 1050,190 1200,150 L1200,220 L0,220 Z;
+          M0,150 C150,190 350,110 600,150 C850,190 1050,110 1200,150 L1200,220 L0,220 Z
+        "/>
+    </path>
+    <path fill="url(#waveFill1)">
+      <animate attributeName="d" dur="6.5s" repeatCount="indefinite"
+        values="
+          M0,175 C200,140 400,205 600,175 C800,145 1000,205 1200,175 L1200,220 L0,220 Z;
+          M0,175 C200,205 400,140 600,175 C800,205 1000,140 1200,175 L1200,220 L0,220 Z;
+          M0,175 C200,140 400,205 600,175 C800,145 1000,205 1200,175 L1200,220 L0,220 Z
+        "/>
+    </path>
+  </g>
+
+  <text x="600" y="98" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="44" font-weight="600" fill="#ffffff" opacity="0">
+    Hi, I'm Sreehari
+    <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="1.1s" fill="freeze"/>
+  </text>
+
+  <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="19" fill="#EDE4FA" opacity="0">
+    AI / ML Student &#183; Full-Stack &amp; Intelligent App Builder
+    <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="1.1s" fill="freeze"/>
+  </text>
+</svg>
