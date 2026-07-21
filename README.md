@@ -90,14 +90,16 @@ I am a passionate developer focused on the intersection of Artificial Intelligen
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sreehriz&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="48%" />
 </p>
 
-<!-- Animated Activity Graph -->
+<!-- Dynamic Activity Wave Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreehriz&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
-<!-- Animated Snake eating contribution grid -->
+<!-- Live Profile Metrics Badge Strip -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sreehriz/sreehriz/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://img.shields.io/github/followers/sreehriz?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sreehriz?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/search/sreehriz/sreehriz/goto?style=social&label=Contributions" alt="Contributions" />
 </p>
 
 ---
