@@ -63,6 +63,17 @@ I am a passionate developer focused on the intersection of Artificial Intelligen
 
 ## 📌 Featured Projects
 
+### 🌐 Nexus — Self-Hosted AI Meeting & Collaboration Platform
+*A privacy-first, intelligent video conferencing system built for tech teams and startups.*
+- **Tech:** WebRTC, Real-Time Speech-to-Text, Multilingual Translation NLP, Semantic Vector Index.
+- **Key Features:**
+  - **Low-Latency Streaming:** Self-hosted WebRTC group sessions tailored for engineering teams.
+  - **Live AI Intelligence:** Real-time speech transcription and dynamic multilingual translations during live sessions.
+  - **Smart Canvas:** Collaborative whiteboard integration enhanced with intelligent AI drawing assistance.
+  - **Semantic History Index:** Instant semantic search across past meeting transcripts and key decision logs.
+
+---
+
 ### 🤖 AI Exam Arrangement Generator
 *An intelligent layout optimizer built to streamline infrastructure management.*
 - **Tech:** Google AI Studio, Generative AI models, Custom Prompt Architecture.
@@ -72,19 +83,21 @@ I am a passionate developer focused on the intersection of Artificial Intelligen
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sreehriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sreehriz&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="48%" />
 </p>
 
+<!-- Animated Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreehriz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreehriz&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
+<!-- Animated Snake eating contribution grid -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sreehriz&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/sreehriz/sreehriz/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
