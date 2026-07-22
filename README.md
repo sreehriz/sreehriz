@@ -1,3 +1,14 @@
+<!--
+  ============================================================
+  GitHub Profile README — sreehriz
+  Theme: Tokyo Night (dark, consistent across all widgets)
+  Sections: Banner, Typing SVG, GitFut Card, Visitor Counter,
+  About, Currently Building, Tech Stack, Featured Projects,
+  GitHub Stats, Top Languages, Streak, Snake, Activity Graph,
+  Trophies, Socials, Quote
+  ============================================================
+-->
+
 <p align="center">
   <img src="banner.svg" alt="Animated header banner" width="100%" />
 </p>
@@ -16,6 +27,19 @@ I am a passionate developer focused on the intersection of Artificial Intelligen
 
 ---
 
+<!-- ⚽ GitFut Player Card -->
+<!--
+  NOTE: GitFut renders a FIFA-style "player card" SVG based on your GitHub
+  activity. If the endpoint below ever returns a broken image (the service
+  is community-run and occasionally goes down), swap in the latest URL
+  from https://github.com/andregustc/gitfut
+-->
+<p align="center">
+  <img src="https://gitfut.vercel.app/api/sreehriz?theme=dark" alt="GitFut Player Card" width="400" />
+</p>
+
+---
+
 ## 🧠 About Me
 
 - 🚀 **Currently exploring:** Advanced Machine Learning models, Generative AI APIs, and Full-Stack orchestration.
@@ -26,44 +50,33 @@ I am a passionate developer focused on the intersection of Artificial Intelligen
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Currently Building
 
-<details open>
-<summary><b>Languages & Core Tech</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-</p>
-</details>
-
-<details open>
-<summary><b>Frameworks, Tools & Cloud</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
-</details>
-
-<details open>
-<summary><b>AI Platforms & Tools</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio">
-  <img src="https://img.shields.io/badge/Gemini_API-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API">
-</p>
-</details>
+| Project | What it does |
+|---|---|
+| 🌐 **Nexus** | Self-hosted AI meeting & collaboration platform |
+| 🤖 **AI Exam Arrangement Generator** | Auto-generates optimized exam seating layouts |
+| 📡 **WaveTrace** | Camera-free human presence detection using Wi-Fi signal analysis |
+| 🧭 **NavGuide** | AI-powered career guidance website |
 
 ---
 
-## 📌 Featured Projects
+## 💻 Tech Stack
 
-### 🌐 Nexus — Self-Hosted AI Meeting & Collaboration Platform
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,cs,firebase,git,figma,maven,nodejs,html,css,vscode&theme=dark" alt="Skill Icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio">
+  <img src="https://img.shields.io/badge/Gemini_API-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API">
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🌐 [Nexus](https://github.com/sreehriz/nexus) — Self-Hosted AI Meeting & Collaboration Platform
 *A privacy-first, intelligent video conferencing system built for tech teams and startups.*
 - **Tech:** WebRTC, Real-Time Speech-to-Text, Multilingual Translation NLP, Semantic Vector Index.
 - **Key Features:**
@@ -72,12 +85,20 @@ I am a passionate developer focused on the intersection of Artificial Intelligen
   - **Smart Canvas:** Collaborative whiteboard integration enhanced with intelligent AI drawing assistance.
   - **Semantic History Index:** Instant semantic search across past meeting transcripts and key decision logs.
 
----
-
-### 🤖 AI Exam Arrangement Generator
+### 🤖 [AI Exam Arrangement Generator](https://github.com/sreehriz/seatsense)
 *An intelligent layout optimizer built to streamline infrastructure management.*
 - **Tech:** Google AI Studio, Generative AI models, Custom Prompt Architecture.
 - **Key Feature:** Allows dynamic editing of room infrastructures and auto-generates optimized seating arrangements based on specific constraints.
+
+### 📡 [WaveTrace](https://github.com/sreehriz/WaveTrace) — Wi-Fi Signal-Based Human Presence Detection
+*A camera-free sensing system that detects and tracks people using ambient Wi-Fi wave signal disturbances.*
+- **Tech:** Wi-Fi Channel State Information (CSI) analysis, signal processing, pattern recognition.
+- **Key Feature:** Reads disruptions in Wi-Fi wave propagation to detect human presence and movement — no cameras required, making it useful for privacy-conscious monitoring.
+
+### 🧭 [NavGuide](https://github.com/sreehriz/navguide) — AI Career Guidance Platform
+*An AI-driven website that helps users navigate career decisions and paths.*
+- **Tech:** Generative AI models, personalized recommendation logic.
+- **Key Feature:** Analyzes user input (skills, interests, goals) to generate tailored career guidance and direction.
 
 > 🚧 *More full-stack applications and autonomous agent architectures coming soon...*
 
@@ -90,16 +111,33 @@ I am a passionate developer focused on the intersection of Artificial Intelligen
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sreehriz&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="48%" />
 </p>
 
-<!-- Dynamic Activity Wave Graph -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreehriz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
+</p>
+
+<!--
+  🐍 Contribution Snake
+  This image is generated by a GitHub Action, not a static API — it needs
+  a workflow file in this same profile repo to build snake.svg on a schedule.
+  1. Create: .github/workflows/snake.yml  (see snippet below)
+  2. Commit dist/github-contribution-grid-snake-dark.svg will be generated
+     automatically and pushed to the "output" branch.
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sreehriz/sreehriz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreehriz&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
-<!-- Live Profile Metrics Badge Strip -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sreehriz&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/sreehriz?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/sreehriz?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/search/sreehriz/sreehriz/goto?style=social&label=Contributions" alt="Contributions" />
 </p>
 
 ---
@@ -118,3 +156,23 @@ I am a passionate developer focused on the intersection of Artificial Intelligen
 ---
 
 <p align="center">⭐ <i>"Consistency and curiosity will take you further than talent alone."</i></p>
+
+<!--
+  ============================================================
+  SETUP NOTES (delete this block once done):
+
+  1. Snake animation requires a GitHub Action. Create a repo named
+     exactly "sreehriz" (your username) if you haven't already —
+     this is your special GitHub profile repo. Then add:
+     .github/workflows/snake.yml with the standard
+     Platane/snk action config, targeting an "output" branch.
+
+  2. Streak stats / stats / top-langs / activity-graph / trophies
+     are all live third-party APIs — no setup needed, they just work
+     once this file is your profile README.
+
+  3. GitFut card depends on a community-hosted API; if it ever 404s,
+     check https://github.com/andregustc/gitfut for the current
+     working endpoint format.
+  ============================================================
+-->
