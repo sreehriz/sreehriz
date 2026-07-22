@@ -128,9 +128,6 @@ I am a passionate developer focused on the intersection of Artificial Intelligen
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreehriz&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sreehriz&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/sreehriz?label=Followers&style=social" alt="Followers" />
