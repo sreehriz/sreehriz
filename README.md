@@ -28,14 +28,10 @@ I am a passionate developer focused on the intersection of Artificial Intelligen
 ---
 
 <!-- ⚽ GitFut Player Card -->
-<!--
-  NOTE: GitFut renders a FIFA-style "player card" SVG based on your GitHub
-  activity. If the endpoint below ever returns a broken image (the service
-  is community-run and occasionally goes down), swap in the latest URL
-  from https://github.com/andregustc/gitfut
--->
 <p align="center">
-  <img src="https://gitfut.vercel.app/api/sreehriz?theme=dark" alt="GitFut Player Card" width="400" />
+  <a href="https://gitfut.com/sreehriz?country=in" target="_blank">
+    <img src="https://gitfut.com/sreehriz/opengraph-image" alt="GitFut Player Card" width="400" />
+  </a>
 </p>
 
 ---
@@ -171,8 +167,9 @@ I am a passionate developer focused on the intersection of Artificial Intelligen
      are all live third-party APIs — no setup needed, they just work
      once this file is your profile README.
 
-  3. GitFut card depends on a community-hosted API; if it ever 404s,
-     check https://github.com/andregustc/gitfut for the current
-     working endpoint format.
+  3. GitFut card is served from gitfut.com. It's clickable and links to
+     your live card at https://gitfut.com/sreehriz?country=in — if the
+     embedded image ever breaks, just re-check that the opengraph-image
+     path still resolves for your profile.
   ============================================================
 -->
